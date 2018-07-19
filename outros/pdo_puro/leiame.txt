@@ -1,0 +1,9 @@
+﻿
+Este é um exemplo extremamente simples.
+Nada de CSS, apenas o CRUD básico com o PDO para mostrar suas funções básicas.
+
+
+
+https://github.com/ribafs/pdo-exemplos/tree/master/pdo_puro
+
+Esse exemplo foi construido Ribamar Sousa.
